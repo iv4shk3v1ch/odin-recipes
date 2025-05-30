@@ -1,0 +1,62 @@
+h1 {
+    font-size: 80px;
+    color: #F2AF29;
+    text-align: center;
+    font-weight: bolder;
+    display: block;
+}
+
+body{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace; 
+}
+
+ul{
+ display: block;
+}
+
+ol{
+ display: block;
+}
+
+p{
+    color: white;
+    font-size: 24px;
+}
+
+li{
+    text-align: center;
+    margin: 10px auto;
+    padding: 20px;
+    display: block;
+    color: #AD343E;
+    font-size: 24px;
+}
+
+.steps{
+    text-align: left;
+}
+
+.ingridients{
+    text-align: left;
+}
+
+a{
+    color: #AD343E;
+    background-color: #474747;
+    font-size: 24px;
+    font-weight: bold;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 600px;
+    display: block;
+    margin: 0px auto;
+}
+
+img{
+    width: 600px;
+    height: auto;
+}
+

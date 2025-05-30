@@ -1,0 +1,1 @@
+This is a simple recipe website made with HTML. Yeah it looks bad, but it's just a small project (assignment)
